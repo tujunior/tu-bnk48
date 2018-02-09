@@ -1,0 +1,1 @@
+export default (name = 'tu') => { console.log(`Hello, ${name} BNK48`) }
